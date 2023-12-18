@@ -36,7 +36,7 @@ npm run dev
 3. RAM - 16GB
 
 ####Screenshots:####
-![60FPS Screenshot](digantara_60fps.png)
+![60FPS Screenshot](digantara_60fps.jpg)
 ![Tooltip 60FPS Screenshot](digantara_60fps_tooltip.jpg)
 
 ####Video####
