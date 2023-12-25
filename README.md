@@ -1,4 +1,4 @@
-### Threejs Assignment
+### Satellite Tracker
 
 This Git repository contains Three.js code that renders real-time satellite positions using Two-Line Element Sets (TLEs) and the satellite.js library.
 The repo optimized code that achieves a smooth 60 FPS rendering while providing tooltips displaying satellite names upon hover.
