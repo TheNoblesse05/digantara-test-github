@@ -18,5 +18,5 @@ npm run dev
 - [satellite.js](https://github.com/shashwatak/satellite-js)
 
 #### Screenshots
-![60FPS Screenshot](digantara_60fps.jpg)
-![Tooltip 60FPS Screenshot](digantara_60fps_tooltip.jpg)
+![60FPS Screenshot](sat_tracker_60fps.jpg)
+![Tooltip 60FPS Screenshot](sat_tracker_60fps_tooltip.jpg)
